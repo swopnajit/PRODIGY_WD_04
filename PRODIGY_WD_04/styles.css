@@ -1,5 +1,3 @@
-
-
     :root {
         --primary-color: #763ae0;
         --primary-color-dark: #6345fb;
@@ -61,25 +59,17 @@
         cursor: pointer;
         transition: 0.3s;
     }
-    /*#btn{
-        padding: 0.01rem 0.04rem;
-        height: 20px;
-        width: 68px;
-        background-color: var(--secondary-color);
-        cursor: pointer;
-        color: var(--white);
-        font-size: 1rem;
-        transition: 0.3s;
-        stroke: none;
-    } */
+
     img {
         width: 100%;
     }
+
     .img-1 {
         width: 35%;
         height: 35%;
         margin: -20px 380px;
     }
+    
     a {
         text-decoration: none;
     }
